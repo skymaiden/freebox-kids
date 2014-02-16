@@ -24,7 +24,7 @@ sky.freeRemote = (function($, window, document, undefined) {
     }
     
     function storeCode() {
-        if (window.localStorage.getItem('code') == null) {
+        if (window.localStorage.getItem('code') == null || window.localStorage.getItem('code') == "") {
             window.localStorage.setItem('code', $codeField.val());   // ex. 52840098
         }
         freeCode = window.localStorage.getItem('code');
