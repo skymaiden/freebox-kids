@@ -9,7 +9,7 @@ It was designed for use on mobile and tablet devices.
 
 [Freebox Kids Remote](http://skymaiden.github.io/freebox-kids/)
 
-Enter your Freebox TV code in the field provided and use the buttons to navigate around the Freebox interface, switch channels, change the volume, etc.
+Connect the device to the same Freebox Wifi as your TV. Enter your Freebox TV code in the field provided and use the buttons to navigate around the Freebox interface, switch channels, change the volume, etc.
 
 
 License
